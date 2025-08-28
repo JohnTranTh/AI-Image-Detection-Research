@@ -1,3 +1,10 @@
+### New
+Link to research paper: https://publications.cispa.de/articles/conference_contribution/ZeroFake_Zero-Shot_Detection_of_Fake_Images_Generated_and_Edited_by_Text-to-Image_Generation_Models/27134142?file=49502790
+
+New modifications were taken from: https://github.com/MarkBridge11/ZeroFake-Mod.
+
+In the original code, a hand-crafted list of nouns for the adversarial prompt, along with the cosine similarity calculation for selecting an adversarial prompt were not present. The modfications for these were taken from the above repo.
+
 ### Environment
 
 You first need to build the environment by:

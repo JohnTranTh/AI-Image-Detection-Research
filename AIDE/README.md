@@ -1,3 +1,6 @@
+### New
+The main addition for this detector is the ability to use multi-scale patch selection. Instead of examining only patches of size 32 x 32 pixels, the detector can split the image into 16 x 16 or 64 x 64 pixel patches as well to influence it's AI detection decision. This feature is currently hardcoded in and must be commented in and out. The code for this is under the datasets.py and AIDE.py files. For datasets.py, check under TestDataset class. For AIDE.py, check under the AIDE_Model class. 
+
 <div align="center">
 <br>
 <h3>A Sanity Check for AI-generated Image Detection</h3>

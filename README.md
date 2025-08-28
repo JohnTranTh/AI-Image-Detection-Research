@@ -1,3 +1,3 @@
-WIP - Will be updated soon with documentation on how to setup and run the detectors, experiments, and links to our research paper.
+This repository contains code from multiple open-source repositories of AI-generated image detectors. The original README's and links to the original research papers are avaliable under each folder. Modfications were made to each detector. You can compare the code with the originals to see the differences. More information on new additions for each detector are avaliable at the top of the README files in each respective folder, under the New caption.
 
-The detector folders contain the Readme files from the original research paper, along with links to those papers if you would like to read those for yourself.
+Datasets for evaluation and training were taken from the AIGIBench dataset https://github.com/HorizonTEL/AIGIBench

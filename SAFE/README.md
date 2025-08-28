@@ -1,3 +1,6 @@
+### New
+For retraining this detector, check https://github.com/HorizonTEL/AIGIBench for datasets for evaluation and training.
+
 # SAFE:  Simple Preserved and Augmented FEatures
 
 This is the official Pytorch implementation of our paper:
